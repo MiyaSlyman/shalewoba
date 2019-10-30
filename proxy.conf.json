@@ -1,0 +1,7 @@
+{
+  "/api/*": {
+    "target": "http://link.hdussta.cn:57676",
+    "secure": false,
+    "debugLevel": "debug"
+  }
+}

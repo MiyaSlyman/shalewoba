@@ -1,0 +1,5 @@
+{
+    "buildingUrl": "link.hdussta.cn:57575/buildingList?limit=int&offset=int",
+    "floorListUrl": "link.hdussta.cn:57575/floorList？limit=int&offset=int&name=string",
+    "roomListUrl": "link.hdussta.cn:57575/floorList?limit=int&offset=int&name=string&floor=int"
+  }
